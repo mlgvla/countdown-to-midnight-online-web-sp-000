@@ -8,8 +8,7 @@ def countdown(count)
     count -= 1
     sleep(1)
   end
-  puts string
-  return string
+  string
 end
 
 
