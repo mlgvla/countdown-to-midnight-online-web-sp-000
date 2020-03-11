@@ -9,7 +9,7 @@ def countdown(count)
     sleep(1)
   end
   puts string
-  returns string
+  return string
 end
 
 
